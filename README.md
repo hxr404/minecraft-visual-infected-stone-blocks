@@ -1,4 +1,4 @@
-# minecraft-visual-infected-stone-blocks
+# minecraft-visual-infested-stone-blocks
 A Minecraft Resourcepack that makes Infested Stoneblocks look different
 
 ![image](https://user-images.githubusercontent.com/55095883/135750397-ffb1edca-3163-47e2-8c1f-27fb3ec87ebd.png)<br>
